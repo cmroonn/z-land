@@ -6,11 +6,14 @@ body {
     color: #fff;
     overflow-x: hidden;
 }
-
+html {
+    overflow-x: hidden;
+}
 main {
     max-width: 1500px;
     margin: 0 auto;
     padding: 0 10px;
+    
 }
 
 .first {
